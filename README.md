@@ -1,6 +1,5 @@
 # PyPOS
-A POS Built on Python
-_
+  - A POS Built on Python
+  
 ## Tech Stack:
-_
 - Kivy (https://kivy.org/#home)
